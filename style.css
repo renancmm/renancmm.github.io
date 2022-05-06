@@ -50,7 +50,7 @@
 
 .profession {
   color: #FDB44B;
-  e;
+  ;
   font-size: 20px;
   text-transform: uppercase;
   text-align: center;
@@ -58,9 +58,9 @@
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
-  color: #eeeeee;
-  font-size: 20px;
   padding-top: 1rem;
+  color: #FDB44B;
+  font-size: 20px;
 }
 
 .contact-info ul {
@@ -70,14 +70,15 @@
 .contact-info ul li,
 .references ul li {
   padding: .4rem 0;
-  color: #eeeeee;
+  color: #D6DBDFAF;
+  ;
 }
 
 .contact-info ul li i,
 .references ul li i {
   padding-right: 1rem;
   font-size: 18px;
-  color: #eeeeee;
+  color: #D6DBDFAF;
 }
 
 .skills ul {
@@ -94,7 +95,6 @@
 
 .right-title {
   color: #70C6C7;
-  ;
 }
 
 .gap {
@@ -102,7 +102,7 @@
 }
 .about-me-contents {
   font-size: 18px;
-  color: #eeeeee;
+  color: #F1F8FD;
 }
 
 .experience-contents,
@@ -122,7 +122,7 @@
 }
 
 .exp-time-period,
-.educationp-time-period,
+.education-time-period,
 .awards-time-period {
   font-size: 18px;
 }
